@@ -74,6 +74,12 @@ Major Changes/ Customizations Made
 4.  Learned about some major practical DAX functions and measures.
     
 5.  Learned about some major analytical visuals and reports.
+
+
+### Tech Stack
+1.MYSql
+2.Power Bi
+3.DAX Language
     
 
 Final result
