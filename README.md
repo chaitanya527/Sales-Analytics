@@ -77,9 +77,9 @@ Major Changes/ Customizations Made
 
 
 ### Tech Stack
-1.MYSql
-2.Power Bi
-3.DAX Language
+1. MySQL
+2. Power Bi
+3. DAX Language
     
 
 Final result
