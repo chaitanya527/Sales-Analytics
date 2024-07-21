@@ -84,9 +84,13 @@ Major Changes/ Customizations Made
 
 Final result
 ------------
-
-#### Dashboard KPI Page
-
 #### Dashboard Performance Insights
+![performance insights](https://github.com/user-attachments/assets/cccd7eda-1bfa-4249-b3fa-612d81a612e0)
+
+
 
 #### Dashboard Profit Analysis
+![profit analysis](https://github.com/user-attachments/assets/4016a10e-54aa-4b27-a3eb-912cad1155ed)
+
+
+
