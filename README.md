@@ -8,21 +8,16 @@ MD Computers Sales Insight Dashboard
 Problem statement
 -----------------
 
-MD Computers hardware is a company which delivers computer hardware & peripheral Manufacturers to his clients, which has several branches throughout India. The sales director of the company is facing a lot of issues in terms of understanding how the business is performing and what are all the problem company is facing currently as the sales are not as expected and declining gradually. And whenever he calls the regional managers to get the current status of the sales and market, as a human behaviour, these people Humans are not comfortable in consuming numbers from excel files, which is obvious reason for the frustration.
-
-Solution
---------
-
-Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for converting the data into visual representation to make data driven decisions. So, he hired a team of data people to complete this task.
+MD Computers Hardware is a company that delivers computer hardware & peripheral Manufacturers to its clients, with several branches throughout India. The company's sales director is facing a lot of issues in terms of understanding how the business is performing and all the problems the company is facing currently as the sales are not as expected and are declining gradually. Whenever he calls the regional managers to get the current status of the sales and market, as human behavior, these people Humans are not comfortable consuming numbers from Excel files, which is an obvious reason for the frustration.
 
 ### AIMS Grid
 
-By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result and success criteria of our project.
+By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result, and success criteria of the project.
 
 Steps Followed in this project
 ------------------------------
 
-1.  Learned about AIMS grid for project planning.
+1.  Learned about the AIMS grid for project planning.
     
 2.  Used MySQL for retrieving the data from the database into Power BI.
     
@@ -30,19 +25,18 @@ Steps Followed in this project
     
 4.  Performed ETL process (Extract Transform and Load)
     
-5.  Created measure for needs and used them for creating visuals in PowerBi.
+5.  Created measures for needs and used them for creating visuals in PowerBi.
     
-6.  In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same
+6.  Data Modelling 
     
-7.  Data Validation
-    
-8.  Data Modelling and Visualization.
+7.  Data Visualization.
     
 
 Major Changes/ Customizations Made
 ----------------------------------
 
-1.Solved the ‘(blank)’ problem for the products section by deleting the original products table and adding the self-modified products table (where I have added the Products ranging from Prod280 to Prod339 with their product type (random type- b/w ‘Own Brand’ and ‘Distribution’). 2.Merged the original modified ‘sales\_transaction’ table with the new ‘sales\_transaction’ table having profit margin, cost price, etc.
+1. Solved the ‘(blank)’ problem for the products section and also deleted the duplicated data
+2.  Merged the original modified ‘sales\_transaction’ table with the new ‘sales\_transaction’ table having profit margin, cost price, etc.
 
 ### Insights
 
